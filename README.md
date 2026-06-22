@@ -1,3 +1,16 @@
+---
+title: ChurnGuard - Churn Prediction and Semantic Search
+emoji: 📉
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.7.0"
+app_file: app.py
+pinned: false
+license: mit
+short_description: 86%+ AUC ensemble churn prediction + semantic customer search
+---
+
 # ChurnGuard — End-to-End ML Pipeline: Churn Prediction & Semantic Search
 
 [![HuggingFace Spaces](https://img.shields.io/badge/🤗%20HF%20Spaces-Live%20Demo-blue)](https://huggingface.co/spaces/mansimengde17/churn-prediction-semantic-search)
