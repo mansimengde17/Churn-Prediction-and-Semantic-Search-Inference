@@ -8,7 +8,7 @@ sdk_version: "4.7.0"
 app_file: app.py
 pinned: false
 license: mit
-short_description: 86%+ AUC ensemble churn prediction + semantic customer search
+short_description: 86%+ AUC churn prediction + semantic search
 ---
 
 # ChurnGuard — End-to-End ML Pipeline: Churn Prediction & Semantic Search
