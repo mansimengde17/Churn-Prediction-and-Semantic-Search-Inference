@@ -207,8 +207,6 @@ def get_model_info():
 
 with gr.Blocks(
     title="ChurnGuard — ML Intelligence Platform",
-    theme=gr.themes.Soft(primary_hue="blue", secondary_hue="emerald"),
-    css=".gradio-container { max-width: 1200px !important }",
 ) as demo:
 
     gr.Markdown("""
@@ -393,5 +391,4 @@ if __name__ == "__main__":
     demo.launch(
         server_name="0.0.0.0",
         server_port=int(os.getenv("PORT", 7860)),
-        show_api=True,
     )
